@@ -6,4 +6,5 @@ The correlation between house prices and crime rates
 
 ## 2. 수면시간 분석  
 The correlation between Sleep duration and sleep efficiency
-* 수면시간과 수면효율은 어떤 관계가 있는지 분석합니다.
+* 수면기록과 효율을 가지고 최고의 효율을 가지는 나만의 수면 구건을 찾아내고 머신러닝과 딥러닝으로 다음 수면시간과 최고의 수면효율은 어떤 구간인지 추적한다. 
+사용장비 : 삼성 기어 스포츠 수면측정 / 갤럭시 워치 4
